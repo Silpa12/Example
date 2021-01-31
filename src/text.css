@@ -1,0 +1,30 @@
+.p1{
+
+position: static;
+width: 315px;
+height: 41px;
+left: 0px;
+top: 68px;
+margin-left:60px;
+font-family: Source Sans Pro;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 110%;
+/* or 17px */
+
+
+color: #000000;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 0px;
+}
+
+h5{
+    color: #A9D82D;
+}
